@@ -1,2 +1,4 @@
 # this is test file (text)
 above all is init ver. 1.00
+
+here's added line. ver. 1.01?
